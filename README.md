@@ -9,6 +9,6 @@ In the field, I recorded the dance of a specie named Swallow-tailed Manakin. Wit
 * `Matplotlib`
 * `Pandas`
 
-### Development
+### Run
 
-For development, you can use the file `main.py`.
+To run the program, you can use the file `main.py`.
