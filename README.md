@@ -13,10 +13,3 @@ In the field, I recorded the dance of a specie named Swallow-tailed Manakin. Wit
 * `SciPy`
 * `Matplotlib`
 * `Pandas`
-<<<<<<< HEAD
-=======
-
-### Run
-
-To run the program, you can use the file `main.py`.
->>>>>>> 13799f867c55d1b0001728e2df33ff20c4578c4c
